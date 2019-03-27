@@ -1,0 +1,14 @@
+104             ! id of particle to be enhanced
+104             ! id of particle to be enhanced
+104             ! id of particle to be enhanced
+104             ! id of particle to be enhanced
+104             ! id of particle to be enhanced
+4d0             ! total rapidity gap
+0d0             ! impact parameter
+6d0             ! initial Radius
+10		! # of events
+80d0		! pt-bin, in MeV
+0.08		! rt-bin, in units of R
+0.12		! t-bin, in units of R
+-33		! seed for random number generator, <0
+
